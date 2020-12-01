@@ -1,6 +1,6 @@
 <h1>HBANK</h1> 
 <p>
-    Hbank es una billetera electronica, que te ayudara a gestionar tu dinero, podras enviar dinero, recibir y hasta ver tu movimientos y estadisticas de los ultimos dias. Todo esto en base a una cuenta que creascuando te regitrar en nuestra app. Se te asiganara un CVU en pesos y otro en dolares. Aparti de ahi, podras disfrtar de todas as funconalidades que te mencionamos ya. A continuacion te mostramos un resumen visual de nuestra aplicacion.
+    Hbank es una billetera electronica, que te ayudara a gestionar tu dinero, podras enviar dinero, recibir y hasta ver tu movimientos y estadisticas de los ultimos dias. Todo esto en base a una cuenta que creas cuando te registrar en nuestra app. Se te asignara un CVU en pesos y otro en dolares. A partir de ahi, podras disfrutar de todas las funcionalidades que te mencionamos ya. A continuacion te mostramos un resumen visual de nuestra aplicacion.
 
 </p>
 
