@@ -1,6 +1,6 @@
 <h1>HBANK</h1> 
 <p>
-    Hbank es una billetera electronica, que te ayudara a gestionar tu dinero, podras enviar dinero, recibir y hasta ver tu movimientos y estadisticas de los ultimos dias. Todo esto en base a una cuenta que creas cuando te registrar en nuestra app. Se te asignara un CVU en pesos y otro en dolares. A partir de ahi, podras disfrutar de todas las funcionalidades que te mencionamos ya. A continuacion te mostramos un resumen visual de nuestra aplicacion.
+    Hbank es una billetera electronica, que te ayudara a gestionar tu dinero, podras enviar dinero, recibir y hasta ver tu movimientos y estadisticas de los ultimos dias. Todo esto en base a una cuenta que creas cuando te registras en nuestra app. Se te asignara un CVU en pesos y otro en dolares. A partir de ahi, podras disfrutar de todas las funcionalidades que te mencionamos ya. A continuacion te mostramos un resumen visual de nuestra aplicacion.
 
 </p>
 
@@ -15,7 +15,7 @@
     <p>Una vez termines el paso uno, te enviaremos un correo electronico con el codigo correspondiente.</p>
     <img src="./readmeAsset/Registro2.png"></img>
     <h2>PASO 3 - DAR ALTA A TU CUENTA</h2> 
-    <p>Una vez valides tu codigo, tendras que completar un ultimo paso. Llena el fomulario con los datos complementarios.</p>
+    <p>Una vez valides tu codigo, tendras que completar un ultimo paso. Llena el formulario con los datos complementarios.</p>
     <img src="./readmeAsset/Registro3.png"></img>
     <h2>PASO 4 - LOGIN</h2> 
     <p>Finalmente ya puedes logearte con tu email y contraseña registrados, ahora puedes disfrutar de Hbank.</p>
